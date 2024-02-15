@@ -1,0 +1,20 @@
+.virsraksts{
+    text-align: center;
+    color:aliceblue;
+}
+body {
+    background-image: url("gramata.jpg");
+  }
+table {
+    position: absolute;
+    color:aliceblue;
+    padding: 120px;
+    margin-left: 120px;
+    text-align: left;
+    width: 80%;
+    height: 50%;
+    font-family: monospace;
+    
+}
+tr:hover {background-color: coral;}
+tr:nth-child(even) {background-color:darkslategrey;}
