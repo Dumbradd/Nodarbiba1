@@ -4,9 +4,13 @@
     font-family: monospace;
     font-size: 40px;
 }
-body {
-    background-image: url("gramata.jpg");
-  }
+.rectangle {
+    height: 80px;
+    width: 350px;
+    background-color: darkslategrey;
+    margin-left: 585px;
+    margin-top: -85px;
+}
 table {
     position: absolute;
     color:aliceblue;
