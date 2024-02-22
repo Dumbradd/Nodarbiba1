@@ -1,6 +1,8 @@
 .virsraksts{
     text-align: center;
     color:aliceblue;
+    font-family: monospace;
+    font-size: 40px;
 }
 body {
     background-image: url("gramata.jpg");
@@ -8,7 +10,7 @@ body {
 table {
     position: absolute;
     color:aliceblue;
-    padding: 120px;
+    padding: 100px;
     margin-left: 120px;
     text-align: left;
     width: 80%;
